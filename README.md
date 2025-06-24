@@ -120,8 +120,8 @@ Use Power BI Desktop to open the .pbix files in the powerbi_reports/ folder.
 ### 📬 Contact
 For queries, suggestions, or collaborations:
 
-Shrushranto Rajbongshi
-📧 shrurajb@gmail.com
+Shrushranto Rajbongshi<br>
+📧 shrurajb@gmail.com<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/shrushranto-rajbongshi-48196a230/)
 
 ### ⭐ Contributions & Feedback
