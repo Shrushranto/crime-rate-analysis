@@ -1,0 +1,77 @@
+year,category,crime_head,against_tourist_foreigners,against_other_foreigners,total_reported_crimes
+2018,IPC,Murder,8,3,11
+2018,IPC,Culpable Homicide not amounting to Murder,1,0,1
+2018,IPC,Attempt to Commit Murder/Culpable Homicide,2,0,2
+2018,IPC,Simple Hurt,7,19,26
+2018,IPC,Grievous Hurt,0,1,1
+2018,IPC,Assault on Women with Intent to Outrage her Modesty,39,13,52
+2018,IPC,Kidnapping and Abduction,1,3,4
+2018,IPC,Human Trafficking,10,2,12
+2018,IPC,Rape,20,7,27
+2018,IPC,Theft,239,20,259
+2018,IPC,Extortion,0,0,0
+2018,IPC,Robbery,6,1,7
+2018,IPC,Dacoity,1,0,1
+2018,IPC,Cheating,19,8,27
+2018,IPC,Forgery,12,0,12
+2018,IPC,Insult to the Modesty of Women,3,0,3
+2018,IPC,Other IPC Crimes,20,7,27
+2018,SLL,Immoral Traffic (Prevention) Act,8,4,12
+2018,SLL,Other SLL Crimes,16,17,33
+2019,IPC,Murder,9,4,13
+2019,IPC,Culpable Homicide not amounting to Murder,1,0,1
+2019,IPC,Attempt to Commit Murder/Culpable Homicide,5,4,9
+2019,IPC,Simple Hurt,5,9,14
+2019,IPC,Grievous Hurt,1,1,2
+2019,IPC,Assault on Women with Intent to Outrage her Modesty,17,9,26
+2019,IPC,Kidnapping and Abduction,3,2,5
+2019,IPC,Human Trafficking,6,5,11
+2019,IPC,Rape,8,4,12
+2019,IPC,Theft,115,27,142
+2019,IPC,Extortion,1,0,1
+2019,IPC,Robbery,10,5,15
+2019,IPC,Dacoity,2,1,3
+2019,IPC,Cheating,28,13,41
+2019,IPC,Forgery,5,1,6
+2019,IPC,Insult to the Modesty of Women,1,0,1
+2019,IPC,Other IPC Crimes,40,14,54
+2019,SLL,Immoral Traffic (Prevention) Act,2,13,15
+2019,SLL,Other SLL Crimes,11,27,38
+2020,IPC,Murder,3,4,7
+2020,IPC,Culpable Homicide not amounting to Murder,0,1,1
+2020,IPC,Attempt to Commit Murder/Culpable Homicide,6,0,6
+2020,IPC,Simple Hurt,4,11,15
+2020,IPC,Grievous Hurt,0,0,0
+2020,IPC,Assault on Women with Intent to Outrage her Modesty,5,0,5
+2020,IPC,Kidnapping and Abduction,2,5,7
+2020,IPC,Human Trafficking,10,3,13
+2020,IPC,Rape,14,2,16
+2020,IPC,Theft,36,16,52
+2020,IPC,Extortion,0,0,0
+2020,IPC,Robbery,2,2,4
+2020,IPC,Dacoity,0,0,0
+2020,IPC,Cheating,7,7,14
+2020,IPC,Forgery,1,0,1
+2020,IPC,Insult to the Modesty of Women,0,0,0
+2020,IPC,Other IPC Crimes,9,9,18
+2020,SLL,Immoral Traffic (Prevention) Act,4,2,6
+2020,SLL,Other SLL Crimes,16,10,26
+2021,IPC,Murder,5,4,9
+2021,IPC,Culpable Homicide not amounting to Murder,0,0,0
+2021,IPC,Attempt to Commit Murder/Culpable Homicide,2,1,3
+2021,IPC,Simple Hurt,5,3,8
+2021,IPC,Grievous Hurt,0,1,1
+2021,IPC,Assault on Women with Intent to Outrage her Modesty,7,8,15
+2021,IPC,Kidnapping and Abduction,0,3,3
+2021,IPC,Human Trafficking,2,6,8
+2021,IPC,Rape,5,9,14
+2021,IPC,Theft,19,4,23
+2021,IPC,Extortion,0,0,0
+2021,IPC,Robbery,5,2,7
+2021,IPC,Dacoity,1,1,2
+2021,IPC,Cheating,3,11,14
+2021,IPC,Forgery,0,0,0
+2021,IPC,Insult to the Modesty of Women,0,0,0
+2021,IPC,Other IPC Crimes,9,5,14
+2021,SLL,Immoral Traffic (Prevention) Act,3,10,13
+2021,SLL,Other SLL Crimes,5,11,16
