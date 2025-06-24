@@ -88,7 +88,7 @@ The analysis was conducted using **Python** for data exploration and preprocessi
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/crime-rate-analysis.git
+git clone https://github.com/Shrushranto/crime-rate-analysis.git
 cd crime-rate-analysis
 
 ### 📦 Install Dependencies
